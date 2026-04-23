@@ -1,0 +1,13 @@
+# Web stuff
+node_modules/
+dist/
+.env
+
+# Python stuff
+__pycache__/
+venv/
+.venv
+*.pyc
+
+# OS stuff
+.DS_Store
